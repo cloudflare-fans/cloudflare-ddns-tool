@@ -1,0 +1,3 @@
+[submodule "cf-ddns"]
+	path = cf-ddns
+	url = git@github.com:cloudflare-fans/cf-ddns.git
